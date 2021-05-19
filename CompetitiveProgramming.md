@@ -1,5 +1,3 @@
-
-
 ## Competitive Programming 
 
 ### Benefits
@@ -44,3 +42,26 @@
      - [CP Algorithms](https://cp-algorithms.com/)
      - [CSES Problemset, 200 problems](https://cses.fi/problemset/)
 
+  ### Strategy
+  
+   - Contests
+     - Codeforces (6-7 momnythly contests)
+     - Virtual Contest
+     - A2oJ (Rating/Level-wise Practice)
+   
+   - Build Logic
+
+  ### Tips
+  
+   - Accuracy
+      - Practice
+      - Dry-Run
+      - After Contest Analysis 
+   - Speed
+      - Practice
+      - Virtual contests
+      - using code snippets 
+   - Pro-tip
+      - pair programming
+      - upsolve
+      - practice as live contest
