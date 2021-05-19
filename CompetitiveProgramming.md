@@ -1,4 +1,7 @@
-## Competitive Programming 
+## Competitive Programming Master Strategy
+  
+  **Time required** = *atmax 6 months*
+  **Practice** = *3-4 hrs/day*
 
 ### Benefits
 
