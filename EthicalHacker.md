@@ -20,11 +20,11 @@
     * Cisco courses
     * CCNA
     * COMPTIA courses
-             * COMPTIA A+
-             * COMPTIA S+
-             * COMPTIA N+                   
-             * COMPTIA CySa+ 
-             * COMPTIA PenTest+                
+         * COMPTIA A+
+         * COMPTIA S+
+         * COMPTIA N+                   
+         * COMPTIA CySa+ 
+         * COMPTIA PenTest+                
                                 
 
 ### Linux Distro for Hacking Purposes
