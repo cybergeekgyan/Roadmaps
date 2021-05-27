@@ -55,6 +55,9 @@
 ### Tools
 
    - Hackerware House
+   - Nmap
+   - Netsparker
+   - Metasploit
    - Hack 5
    - Hacker Equipment
    - Hackaday
