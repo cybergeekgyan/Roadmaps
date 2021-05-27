@@ -7,8 +7,14 @@
    * Ruby, 
    * PHP,
    * SQL
+   * Bash
 
 * Development Knowledge
+   * HTML
+   * CSS
+   * JAVASCRIPT  
+      * JAVASCRIPT code is executed on the client browser. 
+      * Knowledge of JS can be used to read saved cookies and perform cross-site scripting, etc. 
 
 * Database knowledge(DBMS)
 
